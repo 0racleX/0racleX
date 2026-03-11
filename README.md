@@ -7,7 +7,6 @@
   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img align="right" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623439622f313534313538303836342068756e647265642f31373533333433383036343830302f6d61747269782e676966" alt="matrix gif" />
 
 ```bash
 root@0racleX ~ $ neofetch
@@ -16,13 +15,13 @@ root@0racleX ~ $ neofetch
 ```
   0racleX@underground
   ──────────────────────────────────────
-  OS       : Linux
+  OS       : Linux, Windows
   Host     : Somewhere in the dark
   Uptime   : Long enough
   Shell    : zsh + custom dotfiles
   Editor   : vim (obviously)
 
-  Kernel   : Cybersecurity — self-taught
+  Kernel   : Cybersecurity - Systems Engineering
   Team     : Bugs B0unt3r
   Focus    : Forensics / RE / OSINT
 
@@ -35,9 +34,9 @@ root@0racleX ~ $ neofetch
 
   Contact  :
   ──────────────────────────────────────
-  GitHub   : github.com/0racleX
   CTFtime  : ctftime.org/user/250943
   Discord  : 0raclex
+  Linkedin : Dylan Mejía
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=500&lines=The+system+has+no+secrets+I+haven't+found.;Root+is+just+the+beginning.;I+don't+break+systems.+I+understand+them.;You+are+now+being+watched.)
@@ -58,7 +57,7 @@ root@0racleX ~ $ neofetch
 <div align="center">
 
 ```
-/* The quieter you become, the more you are able to hear. */
+/* running on caffeine and unresolved questions */
 ```
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=0racleX.0racleX&color=00FF41&labelColor=0d0d0d&style=flat)
