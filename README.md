@@ -1,102 +1,57 @@
-<div align="center">
-
 ```
-██████╗ ██████╗  █████╗  ██████╗██╗     ███████╗██╗  ██╗
-██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║     ██╔════╝╚██╗██╔╝
-██║   ██║██████╔╝███████║██║     ██║     █████╗   ╚███╔╝ 
-██║   ██║██╔══██╗██╔══██║██║     ██║     ██╔══╝   ██╔██╗ 
-╚██████╔╝██║  ██║██║  ██║╚██████╗███████╗███████╗██╔╝ ██╗
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝╚═╝  ╚═╝
+   █████╗ ██████╗  █████╗  ██████╗██╗     ███████╗██╗  ██╗
+  ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██╔════╝╚██╗██╔╝
+  ██║  ██║██████╔╝███████║██║     ██║     █████╗   ╚███╔╝
+  ██║  ██║██╔══██╗██╔══██║██║     ██║     ██╔══╝   ██╔██╗
+   █████╔╝██║  ██║██║  ██║╚██████╗███████╗███████╗██╔╝ ██╗
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-**`> Initializing 0racleX...`**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=The+system+has+no+secrets+I+haven't+found.;Root+is+just+the+beginning.;I+don't+break+systems.+I+understand+them.;chmod+777+everything.;You+are+now+being+watched.)
-
-</div>
-
----
+<img align="right" width="360" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623439622f313534313538303836342068756e647265642f31373533333433383036343830302f6d61747269782e676966" alt="matrix gif" />
 
 ```bash
-$ whoami
-> 0racleX
-
-$ cat /etc/profile
-> Underground explorer. CTF addict. System whisperer.
-> If it runs code, I can make it do something else.
-
-$ uptime
-> Been in the game long enough to know the rules exist to be bent.
+root@0racleX ~ $ neofetch
 ```
 
----
+```
+  0racleX@underground
+  ──────────────────────────────────────
+  OS       : Linux
+  Host     : Somewhere in the dark
+  Uptime   : Long enough
+  Shell    : zsh + custom dotfiles
+  Editor   : vim (obviously)
 
-## `// ARSENAL`
+  Kernel   : Cybersecurity — self-taught
+  Team     : Bugs B0unt3r
+  Focus    : Forensics / RE / OSINT
+
+  Lang.Code  : Python, Bash, Java, JavaScript, C++
+  Lang.Real  : Spanish, English, French
+
+  Hobbies  : CTFs, breaking things,
+             reading source nobody reads,
+             finding what shouldn't be found
+
+  Contact  :
+  ──────────────────────────────────────
+  GitHub   : github.com/0racleX
+  CTFtime  : ctftime.org/user/250943
+  Discord  : 0raclex
+```
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1000&color=00FF41&background=00000000&center=false&vCenter=true&width=500&lines=The+system+has+no+secrets+I+haven't+found.;Root+is+just+the+beginning.;I+don't+break+systems.+I+understand+them.;You+are+now+being+watched.)
+
+
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
+![Stats](https://github-readme-stats.vercel.app/api?username=0racleX&show_icons=true&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=cccccc&icon_color=00FF41&hide_border=false&rank_icon=github)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0racleX&layout=compact&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=cccccc)
 
 </div>
-
----
-
-## `// CTF ACHIEVEMENTS`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  CAPTURE THE FLAG — OPERATIONS LOG                      │
-├──────────────────────────┬──────────────┬───────────────┤
-│  Platform                │  Rank        │  Team         │
-├──────────────────────────┼──────────────┼───────────────┤
-│  CTFtime                 │  Player      │ Bugs B0unt3r  |
-└──────────────────────────┴──────────────┴───────────────┘
-
-> Total flags captured: [REDACTED]
-> Favorite category: forensics / reverse engineering / OSINT
-```
-
-
----
-
-
-## `// STATS`
-
-<div align="center">
-
-![0racleX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0racleX&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=00FF41&icon_color=00FF41&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0racleX&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=00FF41)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0racleX&theme=dark&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=555555)
-
-</div>
-
----
-
-## `// CONTACT`
-
-```
-┌─────────────────────────────────────────────┐
-│  > Establishing encrypted channel...        │
-│                                             │
-│  GitHub  : github.com/0racleX               │
-│  Discord : 0raclex                          │
-│  Linkedin : Dylan Mejía                     │
-│                                             │
-│  > Connection is end-to-end encrypted.      │
-│  > Leave a trace. I'll find it.             │
-└─────────────────────────────────────────────┘
-```
 
 ---
 
@@ -106,6 +61,6 @@ $ uptime
 /* The quieter you become, the more you are able to hear. */
 ```
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=0racleX.0racleX&color=00FF41&labelColor=000000)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=0racleX.0racleX&color=00FF41&labelColor=0d0d0d&style=flat)
 
 </div>
