@@ -63,44 +63,11 @@ $ uptime
 
 > Total flags captured: [REDACTED]
 > Favorite category: forensics / reverse engineering / OSINT
-> Signature move: reading source when no one else does
 ```
+
 
 ---
 
-## `// ACTIVE PROJECTS`
-
-```python
-projects = {
-    [REDACTED]
-}
-
-for name, description in projects.items():
-    print(f"[ACTIVE] {name} — {description}")
-```
-
----
-
-## `// LEARNING JOURNEY`
-
-```
-SKILL TREE — 0racleX
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  [✓] Linux internals          ████████████  MASTERED
-  [✓] Network fundamentals     ██████████░░  ADVANCED
-  [✓] Web exploitation         █████████░░░  ADVANCED
-  [~] Binary exploitation      ███████░░░░░  LEARNING
-  [~] Malware analysis         ██████░░░░░░  LEARNING
-  [ ] Kernel exploitation      ████░░░░░░░░  RESEARCHING
-  [ ] Hardware hacking         ███░░░░░░░░░  SOON™
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Currently reading: "The Art of Exploitation" — J. Erickson
-Current rabbit hole: ROP chains & ret2libc
-```
-
----
 
 ## `// STATS`
 
@@ -123,8 +90,8 @@ Current rabbit hole: ROP chains & ret2libc
 │  > Establishing encrypted channel...        │
 │                                             │
 │  GitHub  : github.com/0racleX               │
-│                                             │
-│                                             │
+│  Discord : 0raclex                          │
+│  Linkedin : Dylan Mejía                     │
 │                                             │
 │  > Connection is end-to-end encrypted.      │
 │  > Leave a trace. I'll find it.             │
