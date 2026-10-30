@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Dylan Mejía 👋
 
-<!--
-**0racleX/0racleX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems and Computer Engineering student interested in cybersecurity, research, mathematics, software development, data science, and understanding how systems work.
 
-Here are some ideas to get you started:
+### Interests
+- Cybersecurity
+- Research & CTFs
+- Software Engineering
+- Data Science & AI
+- Algebraic structures and mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+**Languages:** Python, Java, JavaScript, C++, Bash, Go 
+**Languages (spoken):** Spanish, English, French
+
+### Achievements
+- 1st place — OEA Cyber Challenge Colombia 2026
+- 1st place — Aligo CTF 2025
+- 3rd place — Latin America Cybersecurity Challenge 2025 (Academic Category)
+- 2nd place — SisteCrédito Hackathon
+
+### Find me
+- [CTFtime](https://ctftime.org/user/250943)
+- [LinkedIn](https://www.linkedin.com/in/dylan-mej%C3%ADa-0093bb264/)
+
+---
